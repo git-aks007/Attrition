@@ -1,4 +1,4 @@
-Predicting Employee Attrition Using Classification Analysis-
+# Predicting Employee Attrition Using Classification Analysis-
 The aim of this project is to develop an accurate predictive model to determine whether an employee is likely to leave a company. To achieve this goal, the project used a classification analysis approach, including multiple machine learning algorithms such as Logistic Regression,Decision Tree, Random Forest,Naive Bayes, Gradient Boosting, and XGBoost.
 
 The project started by gathering a comprehensive dataset of employee features, including demographics, job-related characteristics, work environment factors, and performance indicators. The dataset was preprocessed by handling missing values, removing outliers, and converting categorical variables into numerical features.
